@@ -1,0 +1,20 @@
+C:\Users\NB\source\repos\StajyerKayit\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe.config
+C:\Users\NB\source\repos\StajyerKayit\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe
+C:\Users\NB\source\repos\StajyerKayit\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.pdb
+C:\Users\NB\source\repos\StajyerKayit\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Form1.resources
+C:\Users\NB\source\repos\StajyerKayit\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Properties.Resources.resources
+C:\Users\NB\source\repos\StajyerKayit\WindowsFormsApp10\obj\Debug\StajyerKayit.csproj.GenerateResource.cache
+C:\Users\NB\source\repos\StajyerKayit\WindowsFormsApp10\obj\Debug\StajyerKayit.csproj.CoreCompileInputs.cache
+C:\Users\NB\source\repos\StajyerKayit\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.exe
+C:\Users\NB\source\repos\StajyerKayit\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.pdb
+C:\Users\NB\source\repos\StajyerKayit\WindowsFormsApp10\obj\Debug\StajyerKayit.csprojAssemblyReference.cache
+E:\NB\Ders Notları\StajyerKayit\StajyerKayit\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe.config
+E:\NB\Ders Notları\StajyerKayit\StajyerKayit\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe
+E:\NB\Ders Notları\StajyerKayit\StajyerKayit\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.pdb
+E:\NB\Ders Notları\StajyerKayit\StajyerKayit\WindowsFormsApp10\obj\Debug\StajyerKayit.csprojAssemblyReference.cache
+E:\NB\Ders Notları\StajyerKayit\StajyerKayit\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Form1.resources
+E:\NB\Ders Notları\StajyerKayit\StajyerKayit\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Properties.Resources.resources
+E:\NB\Ders Notları\StajyerKayit\StajyerKayit\WindowsFormsApp10\obj\Debug\StajyerKayit.csproj.GenerateResource.cache
+E:\NB\Ders Notları\StajyerKayit\StajyerKayit\WindowsFormsApp10\obj\Debug\StajyerKayit.csproj.CoreCompileInputs.cache
+E:\NB\Ders Notları\StajyerKayit\StajyerKayit\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.exe
+E:\NB\Ders Notları\StajyerKayit\StajyerKayit\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.pdb
